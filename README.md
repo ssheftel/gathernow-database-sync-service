@@ -10,4 +10,5 @@ service for synchronizing gtj's database with gathernow's db
 
 #Tests
 
-1. `cd gtjdbsync && ptw`
+1. `source myenv/bin/activate`
+2. `cd gtjdbsync && ptw`
